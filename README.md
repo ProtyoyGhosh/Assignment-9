@@ -1,6 +1,6 @@
 # I created this WEBSITE for running a Football Academy 
 
-Click Here to see the live site [Create React App](https://github.com/facebook/create-react-app).
+Click Here to see the live site [Create React App](https://protyoy-assignment-9.netlify.app/).
 
 ## Star Football Academy
 
