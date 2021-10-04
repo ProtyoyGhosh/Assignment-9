@@ -1,0 +1,34 @@
+[
+  {
+    "id": 100,
+    "fees": 40,
+    "title": "U-15 Team",
+    "min_age": 12,
+    "max_age": 15,
+    "img": "https://www.darlingtonandstocktontimes.co.uk/resources/images/7730270/"
+  },
+  {
+    "id": 200,
+    "fees": 50,
+    "title": "U-19 Team",
+    "min_age": 16,
+    "max_age": 19,
+    "img": "https://miro.medium.com/max/2400/1*2QIRpMgacH7J4TqU-GqrNw.jpeg"
+  },
+  {
+    "id": 300,
+    "fees": 45,
+    "title": "Womens Main Team",
+    "min_age": 19,
+    "max_age": 30,
+    "img": "https://www.reaseheath.ac.uk/wp-content/uploads/2013/09/Girls-Football-team-picture.jpg"
+  },
+  {
+    "id": 400,
+    "fees": 60,
+    "title": "Mens First Team",
+    "min_age": 19,
+    "max_age": 30,
+    "img": "https://www.reaseheath.ac.uk/wp-content/uploads/2018/06/Mens-Football-Academy-e1528981920103.jpg"
+  }
+]
