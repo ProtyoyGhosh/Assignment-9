@@ -6,6 +6,8 @@ const Error = () => {
     return (
         <>
             <Header></Header>
+
+            {/* not found error component */}
             <div style={{ margin: '94px' }}>
                 <h3 style={{ color: 'red', fontSize: '40px', fontWeight: 'bolder' }}>ERROR 401</h3>
                 <h5 style={{ color: 'red', fontSize: '20px', fontWeight: 'bold' }}>Page not found</h5>

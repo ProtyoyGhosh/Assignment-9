@@ -6,6 +6,7 @@ import { Carousel } from 'react-bootstrap';
 
 const Slider = () => {
     return (
+// creating a slider with react boostrap
         <Carousel>
             <Carousel.Item interval={1500}>
                 <img

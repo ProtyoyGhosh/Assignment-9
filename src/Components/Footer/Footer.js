@@ -3,6 +3,7 @@ import './Footer.css';
 
 const Footer = () => {
     return (
+        // footer of the website
         <div className='footer'>
             <h3>This is a Football Academy Website</h3>
             <p>Made By Protyoy</p>

@@ -7,6 +7,8 @@ import Slider from '../Slider/Slider';
 const Home = () => {
     return (
         <>
+            {/* rendering all the highlited components in this website */}
+
             <Header></Header>
             <Slider></Slider>
             <Services></Services>

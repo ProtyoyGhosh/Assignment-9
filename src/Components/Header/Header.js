@@ -6,6 +6,9 @@ import './header.css';
 const Header = () => {
     return (
         <div className='header'>
+
+            {/* creting a navbar with react boostrap */}
+
             <Nav fill variant="tabs" defaultActiveKey="/home">
                 <Nav.Item>
                     <Nav.Link> <NavLink to='/home'>Home</NavLink> </Nav.Link>
